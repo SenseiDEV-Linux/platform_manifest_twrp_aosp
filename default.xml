@@ -934,4 +934,5 @@
 
     <!-- FIRST: Remove unused/forked Projects for minimal manifest -->
     <include name="remove.xml"/>
+    <include name="twrp-extras.xml"/>
 </manifest>
